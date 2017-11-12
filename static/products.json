@@ -1,0 +1,19 @@
+[
+  ["name", "price", "color", "amount"],
+
+  {
+    "name": "Test 1",
+    "price": 1,
+    "ignore": false
+  },
+  {
+    "name": "Test 2",
+    "price": 2,
+    "amount": 4
+  },
+  {
+    "name": "Test 3",
+    "price": 3,
+    "color": "blue"
+  }
+]
